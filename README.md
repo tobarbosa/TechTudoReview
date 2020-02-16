@@ -1,4 +1,4 @@
-# <kbd><c style:"color:orange">Tech</c><cc style="color:grey">Tudo Review</cc></kbd>
+# TechTudo Review
 
 ![Tomb Raider 2012](TombRaider.jpg "Tomb Raider 2012")
 
